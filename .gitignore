@@ -1,0 +1,4 @@
+*.log
+trace.*
+*.sqlite3
+.idea/
